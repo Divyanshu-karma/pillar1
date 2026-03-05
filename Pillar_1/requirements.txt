@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+weaviate-client==3.*
+sentence-transformers
+torch
+transformers
+python-dotenv
+numpy
